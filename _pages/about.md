@@ -1,49 +1,69 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+[Email](mailto:haidizym@163.com)
+个人简历下载： [yameiZHU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+工作经历
+2021.12-至今       研发工程师，上海计算机软件技术开发中心，上海
+			负责ssc-finllm金融大模型，浦源大模型春季挑战赛行业应用奖第一名（上海人工智能实验室）
+			参与安徽铁投元宇宙AR智能运维视角下大模型安全问答知识助手，
+			参与合同审计大模型，
+2021.4- 2021.11    初高中数学教师，新东方教育培训有限公司，上海
+2018.8-2021.3      研究助理，华东师范大学，教育学部考试与评价研究院，上海
+			参与“国家自然科学基金2018年面上项目-----以学习活动为中心的导学视频素材搜索关键技术研究（61877022）”算法研发+数据分析
+			参与算法研发+数据分析+成果撰写
+2016.7-2018.7      数据工程师，上海智而仁信息科技有限公司，上海
+			负责“基于现代测量理论的智能诊断学习系统构建项目”算法研发+数据分析
+			负责研发出自适应智能诊断学习系统的核心算法；
+			负责智能诊断学习系统收集数据的处理与分析
+2010.7-2011.7       研究生支教教师，高中数学，武定一中，云南
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+教育背景
+2014.8- 2015.8         博士研究生（未读完），课程与教学论，德州农工大学，美国 
+		      （国家建设高水平大学公派研究生项目，2014）
+2011.9- 2014.7         教育学硕士， 课程与教学论（平均分：95），华东师范大学，上海
+2006.9- 2010.7         理学学士，数学与应用数学（绩点：3.16），华东师范大学，上海
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+荣誉证书
+上海市中级专业技术职称证书（深度学习与算法），上海市知识产权工作者证书，研究生国家奖学金 (2012)， 华东师范大学优秀毕业生(2010)， 华东师范大学优秀学生 (2008)，大学英语六级，教师资格证（高中数学），华东师范大学国家理科基地班证书(2006-2010)，国家计算机二级证书（C++）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+发明授权
+朱娅梅. 构造分层学习空间的方法[P]. 上海市：CN109583589B,2023-04-07.
+朱娅梅. 实现分层自适应学习的方法[P]. 上海市：CN109255548B,2023-04-07.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+发表专著、文章
+朱娅梅,撒兰应.引领学习变革 智创教育未来——2022世界人工智能大会教育论坛综述[J].教育测量与评价,2022(06):25-36.DOI:10.16518/j.cnki.emae.2022.06.003.
+朱娅梅,撒兰应.二次函数的领域模型构建[J].内江师范学院学报,2021,36(12):1-6+20.
+朱娅梅(著). 基于现代测量理论的初中数学学科领域模型构建[M].2021:东北师范大学出版社，（受国家自然科学基金2018年面上项目-----以学习活动为中心的导学视频素材搜索关键技术研究（61877022）资助）
+Wang T., Liu Y., Liu Z., Zhang M., Liu J., Zhu Y. (2020) A Prototype System of Search: Finding Short Material for Science Education in Long and High-Definition Documentary Videos. In: Pinkwart N., Liu S. (eds) Artificial Intelligence Supported Educational Technologies. Advances in Analytics for Learning and Teaching. Springer, Cham
+朱娅梅,刘姣,陈林山.基于核心素养的大规模数学学业水平测试框架[J/OL].教育测量与评价,2018(09):18-24[2018-09-12]（人大报刊复印资料全文转载-初中数学教与学， 2018 年第 12 期）
+朱娅梅.义务教育阶段学生数学建模能力评价框架和行为测评指标[J].数学教育学报（CSSCI扩展版）,2018,27(03):93-96.
+刘姣,朱娅梅.教学效能对学业负担影响的元分析[J].教育发展研究（CSSCI）,2018(10)27-31+59.
+朱娅梅, 刘姣. 从强调知识到强调核心素养——第三届“中国基础教育质量监测与评价学术年会”会议综述[J]. 教育测量与评价, 2018(3):28-33+19.
+朱娅梅. 我国八年级学生数学建模能力的调查研究[J]. 上海教育科研（北大核心）（人大报刊复印资料全文转载-初中数学教与学，2017年第8期）， 2017(4):51-54.
+朱娅梅， 刘姣. 监测引领教育健康发展——第二届中国基础教育质量监测与评价学术年会会议综述[J]. 教育测量与评价， 2017(1):36-41.
+朱娅梅. 中新初中数学教材中的平均数内容比较——以沪科版和新加坡New  Express Mathematics为例[J]. 中学数学教学参考旬刊， 2014(3):70-72.
+朱娅梅. 函数概念理解的面与层模型[J]. 数学教学， 2013(11):8-10.
+朱娅梅. 中美初中数学教材综合难度的比较研究——以上教版初中数学教材和美国PrenticeHall教材为例[J]. 数学教学， 2013， 1(10):26-28.
+朱娅梅.课程对数学教与学的影响：来自中美两个纵向研究的发现 ，载张奠宙，鲍建生，徐斌艳主编  数学教育研究导引（二）[M]，江苏：江苏教育出版社，2013：279-281
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+会议报告
+2012        朱娅梅，干芸，杨亚平 ，A  comparative  study  of  mathematics  textbook  in  Shanghai，  Singapore  and  America. oral  short presentation，小组报告（TSG 32）， 第十二届国际数学教育大会， 首尔，韩国 （7月8-15）载于Cho， S. J. (2015). The Proceedings of the 12th International Congress on Mathematical Education. Springer.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+证书&培训
+2024      书生浦语大模型实战营结业证书、优秀学员证书（证书编号：Internlm-C2-SE967）
+              上海市人工智能实验室
+2023      上海市中级专业技术职称证书（证书编号：23ZEZJDC0001）（深度学习与算法）
+              上海市工程系列人工智能专业（技术基础类）中级职称评审委员会
+2023      科学与工程中的数学方法
+（教育部基础学科拔尖学生培养计划2.0，华东师范大学数学科学学院），40课时，华东师范大学
+2023      上海市知识产权工作者证书（证书编号：SIPSA202303170），上海市知识产权服务行业协会
+2019      AI和教育大数据峰会.2019-数据挖掘工作坊“深度学习及其在python与R软件中的实现”
+（Dr. Andrew Kyngdon，新南威尔士教育标准局NESA），24课时，北京师范大学
+2019      AI和教育大数据峰会.2019-数据挖掘工作坊“教与学中的过程性数据挖掘”
+（迟旻教授，美国北卡罗来纳州立大学），16课时，北京师范大学
